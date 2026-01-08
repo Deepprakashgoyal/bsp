@@ -8,7 +8,7 @@ export default function GlobalStyles() {
     <MUIGlobalStyles
       styles={{
         '*': {
-          boxSizing: 'border-box',
+          boxSizing: 'border-box ',
         },
         html: {
           margin: 0,
